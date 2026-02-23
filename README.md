@@ -1,6 +1,6 @@
 # TrailCurrent Shunt Gateway
 
-Gateway module that reads battery monitoring data from a Victron BMV battery shunt via serial and transmits the readings over a CAN bus interface.
+Gateway module that reads battery monitoring data from a Victron BMV battery shunt via serial and transmits the readings over a CAN bus interface. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
 ## Hardware Overview
 
